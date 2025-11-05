@@ -15,7 +15,7 @@ const PropertyListingCard: React.FC<PropertyListingProps> = ({
 }) => {
   return (
     <ImageBackground
-      source={require("@/assets/images/sample-image.png")}
+      source={require("@/assets/images/react-logo.png")}
       style={styles.container}
     >
       <View style={styles.overlay}>
